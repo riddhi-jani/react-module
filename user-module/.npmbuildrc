@@ -1,0 +1,13 @@
+{
+	"translatorTextKey": "",
+	"supportedLocales": [],
+	"liferayDir": "/home/root318/Worc/Runtime/liferay-dxp-tomcat-7.4.13.u29-20220615091349533/liferay-dxp-7.4.13.u29",
+	"webpack": {
+		"rules": [
+			{
+				"test": "src\\/.*\\.js$",
+				"use": "babel-loader"
+			}
+		]
+	}
+}
